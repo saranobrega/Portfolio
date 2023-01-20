@@ -10,8 +10,7 @@ Data Scientist Intern | Physics M.Sc degree
 #### Keywords: Computer Vision; Object Detection; Deep learning
 ![alt text](damage.jpg)
  
- 
-Using object detection models to detect damages in bridges. Detecting defects on a bridge surface to aid in more effective and efficient bridge inspections.
+ Using object detection models to detect damages in bridges. Detecting defects on a bridge surface to aid in more effective and efficient bridge inspections.
 * **Python libraries used:** TensorFlow, Keras
 * **Input:** Drone Images
 * **Output:** Binary output (damaged/not damaged); Classification of the type of damage.
@@ -21,6 +20,7 @@ Using object detection models to detect damages in bridges. Detecting defects on
 
 
 Implementing the modern Transformer-based model [BERT](https://huggingface.co/docs/transformers/model_doc/bert) model for a multi-class text classification project.
+#### Keywords: Natural Language Processing, Text Classification
 * **Python libraries used:** Pytorch Lightning, Pandas, Numpy, Seaborn
 * **Others:** Hugging Face, Wandb
 * **Input:** E-mail Text
