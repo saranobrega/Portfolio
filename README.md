@@ -3,7 +3,7 @@
 Data Scientist Intern | Physics M.Sc degree
 
 # Education
-* Masters of Science (Physics, Astrophysics with Minor in Data Science), *University of Lisbon*, 2019-2022
+* Masters of Science (Physics, Astrophysics, Minor in Data Science), *University of Lisbon*, 2019-2022
 * Bachelors of Science (Physics), *University of Lisbon*, 2016-2019
 
 # [Project 1: AI for Damage Detection Challenge](https://github.com/saranobrega/AI-for-Damage-Inspection-Project)
