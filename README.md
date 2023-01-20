@@ -34,7 +34,7 @@ Implementing the modern Transformer-based model [BERT](https://huggingface.co/do
 Created a new unsupervised method to detect anomaly samples using Isolation Forest and ANN.
 
 * **Python libraries used:** Keras, Tensorflow, Matplotlib
-* **Input:** Pixel data (MNIST); Model-state data (data from the state of the neurons from an ANN using MNIST data)
+* **Input:** Pixel data (MNIST); model state of the MNIST 10-digit classifier model
 * **Output:** Probablity of a data point being an outlier; Isolation Forest scores. 
 
 # [Project 4:  Document Understanding Project](https://github.com/saranobrega/Document-Understanding-Project/blob/main/README.md)
