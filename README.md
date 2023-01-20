@@ -7,10 +7,10 @@
 * Bachelors of Science (Physics), *University of Lisbon*, 2016-2019
 
 # [Project 1: AI for Damage Detection Challenge](https://github.com/saranobrega/AI-for-Damage-Inspection-Project)
-![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![alt text](cody-hiscox-Hp5Acad1H0k-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
+Photo by <a href="https://unsplash.com/@codyhiscox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cody Hiscox</a> on <a href="https://unsplash.com/s/photos/bridge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 Using object detection models to detect damages in bridges. Detecting defects on a bridge surface to aid in more effective and efficient bridge inspections.
 * **Python libraries used:** TensorFlow, Keras
 * **Input:** Drone Images
