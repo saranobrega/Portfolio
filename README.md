@@ -1,5 +1,5 @@
 
-# Sara Nobrega
+# Sara Nóbrega
 Data Scientist Intern | Physics M.Sc degree
 
 # Education
@@ -7,8 +7,10 @@ Data Scientist Intern | Physics M.Sc degree
 * Bachelors of Science (Physics), *University of Lisbon*, 2016-2019
 
 # [Project 1: AI for Damage Detection Challenge](https://github.com/saranobrega/AI-for-Damage-Inspection-Project)
+#### Keywords: Computer Vision; Object Detection; Deep learning
 ![alt text](damage.jpg)
-  
+ 
+ 
 Using object detection models to detect damages in bridges. Detecting defects on a bridge surface to aid in more effective and efficient bridge inspections.
 * **Python libraries used:** TensorFlow, Keras
 * **Input:** Drone Images
