@@ -1,6 +1,7 @@
 
-# Hey there! This is a collection of my machine learning projects performed during my internships and free time. 
-Data Scientist Intern | Physics M.Sc degree
+# Sara Nóbrega - Data Science Intern | Physics M.Sc 
+
+Hey there! This is a collection of my machine learning projects performed during my internships and free time. 
 
 # Education
 * Masters of Science (Physics, Astrophysics, Minor in Data Science), *University of Lisbon*, 2019-2022
