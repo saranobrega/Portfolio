@@ -1,5 +1,5 @@
 
-# Sara Nóbrega - Data Science Intern | Physics M.Sc 
+# Sara Nóbrega - Data Science Intern
 
 Hey there! This is a collection of my machine learning projects performed during my internships and free time. 
 
