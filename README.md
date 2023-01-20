@@ -1,6 +1,6 @@
 
 # Sara Nobrega
-* Data Scientist Intern | Physics M.Sc degree
+Data Scientist Intern | Physics M.Sc degree
 
 # Education
 * Masters of Science (Physics, Astrophysics with Minor in Data Science), *University of Lisbon*, 2019-2022
