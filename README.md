@@ -1,20 +1,20 @@
 
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Sara Nobrega
+* Data Scientist Intern | Physics M.Sc degree
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Masters of Science (Physics, Astrophysics with Minor in Data Science), *University of Lisbon*, 2019-2022
+* Bachelors of Science (Physics), *University of Lisbon*, 2016-2019
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: AI for Damage Detection Challenge](https://github.com/saranobrega/AI-for-Damage-Inspection-Project)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+Using object detection models to detect damages in bridges. Detecting defects on a bridge surface to aid in more effective and efficient bridge inspections.
+* **Python libraries used:** TensorFlow, Keras
+* **Input:** Drone Images
+* **Output:** Binary output (damaged/not damaged); Classification of the type of damage.
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
