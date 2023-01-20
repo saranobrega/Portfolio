@@ -21,8 +21,19 @@ Hey there! This is a collection of my machine learning projects performed during
 
 
 Implementing the modern Transformer-based model [BERT](https://huggingface.co/docs/transformers/model_doc/bert) model for a multi-class text classification project.
-#### Keywords: Natural Language Processing, Text Classification
+#### Keywords: Natural Language Processing, Text Classification, Transformers
 * **Python libraries used:** Pytorch Lightning, Pandas, Numpy, Seaborn
 * **Others:** Hugging Face, Wandb
 * **Input:** E-mail Text
 * **Output:** Category of Email (Spam, Order, Complaints...)
+
+# [Project 3:  Document Understanding Project](https://github.com/saranobrega/Document-Understanding-Project/blob/main/README.md)
+#### Keywords: Computer Vision; Object Detection; Deep learning; Document Understanding, Faster-RCNN
+![alt text](doc.jpg)
+
+Implementing the Faster-RCNN model for document understanding. The goal is to detect main features in document images, namely headers, tables, footers and order line items.
+
+* **Python libraries used:** Pytorch Lightning, Pandas, Numpy, Seaborn
+* **Others:** Hugging Face, Wandb
+* **Input:** Images of Documents
+* **Output:** Bounding Boxes + Classification of each document
