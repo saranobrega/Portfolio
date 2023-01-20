@@ -27,7 +27,17 @@ Implementing the modern Transformer-based model [BERT](https://huggingface.co/do
 * **Input:** E-mail Text
 * **Output:** Category of Email (Spam, Order, Complaints...)
 
-# [Project 3:  Document Understanding Project](https://github.com/saranobrega/Document-Understanding-Project/blob/main/README.md)
+# [Project 3:  Anomaly detection Project](https://github.com/saranobrega/Anomaly-detection-Project)
+#### Keywords: Anomaly detection; Outlier Detection, Supervised, Unsupervised, Isolation Forest, ANN
+![alt text](apple.png)
+
+Created a new unsupervised method to detect anomaly samples using Isolation Forest and ANN.
+
+* **Python libraries used:** Keras, Tensorflow, Matplotlib
+* **Input:** Pixel data (MNIST); Model-state data (data from the state of the neurons from an ANN using MNIST data)
+* **Output:** Probablity of a data point being an outlier; Isolation Forest scores. 
+
+# [Project 4:  Document Understanding Project](https://github.com/saranobrega/Document-Understanding-Project/blob/main/README.md)
 #### Keywords: Computer Vision; Object Detection; Deep learning; Document Understanding, Faster-RCNN
 ![alt text](doc.jpg)
 
