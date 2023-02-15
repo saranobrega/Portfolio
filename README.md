@@ -4,8 +4,16 @@
 Hey there! This is a collection of my machine learning projects performed during my internships and free time. 
 
 # Education
-* Masters of Science (Physics, Astrophysics, Minor in Data Science), *University of Lisbon*, 2019-2022
-* Bachelors of Science (Physics), *University of Lisbon*, 2016-2019
+* Master's of Science (Physics, Astrophysics, Minor in Data Science), *University of Lisbon*, 2019-2022
+* Bachelor's of Science (Physics), *University of Lisbon*, 2016-2019
+
+# Certifications 
+* Microsoft Azure Data Fundamentals: Explore data analytics in Azure (on-going)
+* [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/achievements/learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts.trophy?username=SaraNbrega-6028)
+* [Git and Github](https://drive.google.com/file/d/1AoUonO8l2-MICmV7P12LQgjdT_hT-hw-/view)
+* [Machine Learning knowledge certification](https://triplebyte.com/tb/sara-nobrega-qieh36i/certificate)
+* [Data Preparation with SQL](https://drive.google.com/file/d/142wQK70ZeOEmWVzERoE6AZ0eOEF-MBm_/view)
+* [SQL Bootcamp](https://drive.google.com/file/d/1xhIfte81F_vMhDJDX3o79yJj_9KN5QBG/view)
 
 # [Project 1: AI for Damage Detection Challenge](https://github.com/saranobrega/AI-for-Damage-Inspection-Project)
 #### Keywords: Computer Vision; Object Detection; Deep learning
