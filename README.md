@@ -8,7 +8,7 @@ Hey there! This is a collection of my machine learning projects performed during
 * Bachelor's of Science (Physics), *University of Lisbon*, 2016-2019
 
 # Certifications 
-* Microsoft Azure Data Fundamentals: Explore data analytics in Azure (on-going)
+* [Microsoft Azure Data Fundamentals: Explore data analytics in Azure](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics.trophy?username=SaraNbrega-6028)
 * [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/achievements/learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts.trophy?username=SaraNbrega-6028)
 * [Git and Github](https://drive.google.com/file/d/1AoUonO8l2-MICmV7P12LQgjdT_hT-hw-/view)
 * [Machine Learning knowledge certification](https://triplebyte.com/tb/sara-nobrega-qieh36i/certificate)
