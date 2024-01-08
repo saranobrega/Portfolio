@@ -26,7 +26,7 @@ Hey there! This is a collection of my machine learning projects performed during
 
 # Projects
 
-# [Synthetic Wind-Turbine Data Generation with ParModel]([https://github.com/saranobrega/AI-for-Damage-Inspection-Project])
+# [Synthetic Wind-Turbine Data Generation with ParModel](https://github.com/saranobrega/PAR_model_synthetic_data)
 #### Keywords: Synthetic Data; ParModel; Wind-Turbine Data
 ![alt text](wind-farm.jpg)
 
@@ -36,7 +36,7 @@ Efficiently addressing data scarcity and privacy concerns in wind-turbine resear
 * **Output:** Generated synthetic wind-turbine data, preserving statistical properties and overcoming limitations in real-world datasets.
 
 
-# [Wind Turbine Data Gap Filling with LightGBM]([https://github.com/saranobrega/AI-for-Damage-Inspection-Project](https://saranobrega.github.io/2023/12/29/fill-gaps.html))
+# [Wind Turbine Data Gap Filling with LightGBM](https://github.com/saranobrega/AI-for-Damage-Inspection-Project](https://saranobrega.github.io/2023/12/29/fill-gaps.html)
 #### Keywords: LightGBM; Missing data; Time-series Data
 ![alt text](puzzle.png)
 
