@@ -11,8 +11,8 @@ Hey there! This is a collection of my machine learning projects performed during
 * Machine Learning Internship @Irdeto - Amsterdam, 2022
 
 # Education
-* Master's of Science (Physics, Astrophysics, Focus in Data Science), *University of Lisbon*, 2019-2022
-* Bachelor's of Science (Physics), *University of Lisbon*, 2016-2019
+* Master's of Science (Physics, Astrophysics, Focus in Data Science), University of Lisbon, 2019-2022
+* Bachelor's of Science (Physics), University of Lisbon, 2016-2019
 
 # Certifications 
 * [Designing RESTful APIs](https://drive.google.com/file/d/1ZMH6DSdEci8w1wHu3uOecoGRYZle-e_a/view)
