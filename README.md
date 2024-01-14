@@ -15,6 +15,8 @@ Hey there! This is a collection of my machine learning projects performed during
 * Bachelor's of Science (Physics), University of Lisbon, 2016-2019
 
 # Certifications 
+* [Communicating Data Effectively in Data Presentation Skills](https://drive.google.com/file/d/1TN7eZ8C5NZ7Qmd513Xz8R--TZ4Lnda2U/view?usp=sharing)
+* [Telling Stories with Data in Data Presentation Skills](https://drive.google.com/file/d/11fcA_J550nzW3OpEReLPKkkjeQ5ZgLaS/view?usp=sharing)
 * [Designing RESTful APIs](https://drive.google.com/file/d/1ZMH6DSdEci8w1wHu3uOecoGRYZle-e_a/view)
 * [Applied Time Series Analysis in Python](https://drive.google.com/file/d/1wno6AjNSYqb-WdbaV4-N0MvN83jjApZk/view)
 * [Microsoft Azure Data Fundamentals: Explore data analytics in Azure](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics.trophy?username=SaraNbrega-6028)
