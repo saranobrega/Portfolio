@@ -15,6 +15,7 @@ Hey there! This is a collection of my machine learning projects performed during
 * Bachelor's of Science (Physics), University of Lisbon, 2016-2019
 
 # Certifications 
+* [Design a machine learning solution in Azure](https://learn.microsoft.com/api/achievements/share/en-us/SARANBREGA-6785/3X676BLH?sharingId=2092C01B30C4195A)
 * [Perform hyperparameter tuning with Azure Machine Learning](https://learn.microsoft.com/api/achievements/share/en-us/SARANBREGA-6785/3XLJZ9WH?sharingId=2092C01B30C4195A)
 * [AutoML model selection with Azure Machine Learning](https://learn.microsoft.com/en-us/users/saranbrega-6785/achievements/7e8yly2z)
 * [Communicating Data Effectively in Data Presentation Skills](https://drive.google.com/file/d/1TN7eZ8C5NZ7Qmd513Xz8R--TZ4Lnda2U/view?usp=sharing)
