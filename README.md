@@ -14,20 +14,37 @@ Hey there! This is a collection of my machine learning projects performed during
 * Master's of Science (Physics, Astrophysics, Focus in Data Science), University of Lisbon, 2019-2022
 * Bachelor's of Science (Physics), University of Lisbon, 2016-2019
 
-# Certifications 
+# Certifications
+**Azure:**
+
+* [Train and deploy a machine learning model with Azure Machine Learning](https://learn.microsoft.com/api/achievements/share/en-us/SARANBREGA-6785/CWL8E4L9?sharingId=2092C01B30C4195A)
 * [Design a machine learning solution in Azure](https://learn.microsoft.com/api/achievements/share/en-us/SARANBREGA-6785/3X676BLH?sharingId=2092C01B30C4195A)
 * [Perform hyperparameter tuning with Azure Machine Learning](https://learn.microsoft.com/api/achievements/share/en-us/SARANBREGA-6785/3XLJZ9WH?sharingId=2092C01B30C4195A)
 * [AutoML model selection with Azure Machine Learning](https://learn.microsoft.com/en-us/users/saranbrega-6785/achievements/7e8yly2z)
-* [Communicating Data Effectively in Data Presentation Skills](https://drive.google.com/file/d/1TN7eZ8C5NZ7Qmd513Xz8R--TZ4Lnda2U/view?usp=sharing)
-* [Telling Stories with Data in Data Presentation Skills](https://drive.google.com/file/d/11fcA_J550nzW3OpEReLPKkkjeQ5ZgLaS/view?usp=sharing)
-* [Designing RESTful APIs](https://drive.google.com/file/d/1ZMH6DSdEci8w1wHu3uOecoGRYZle-e_a/view)
-* [Applied Time Series Analysis in Python](https://drive.google.com/file/d/1wno6AjNSYqb-WdbaV4-N0MvN83jjApZk/view)
 * [Microsoft Azure Data Fundamentals: Explore data analytics in Azure](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics.trophy?username=SaraNbrega-6028)
 * [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/achievements/learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts.trophy?username=SaraNbrega-6028)
+  
+**Data Presentation Skills:**
+
+* [Communicating Data Effectively in Data Presentation Skills](https://drive.google.com/file/d/1TN7eZ8C5NZ7Qmd513Xz8R--TZ4Lnda2U/view?usp=sharing)
+* [Telling Stories with Data in Data Presentation Skills](https://drive.google.com/file/d/11fcA_J550nzW3OpEReLPKkkjeQ5ZgLaS/view?usp=sharing)
+  
+**API Design:**
+* [Designing RESTful APIs](https://drive.google.com/file/d/1ZMH6DSdEci8w1wHu3uOecoGRYZle-e_a/view)
+  
+**Data Analysis and Time Series:**
+* [Applied Time Series Analysis in Python](https://drive.google.com/file/d/1wno6AjNSYqb-WdbaV4-N0MvN83jjApZk/view)
+  
+**Version Control and Collaboration:**
 * [Git and Github](https://drive.google.com/file/d/1AoUonO8l2-MICmV7P12LQgjdT_hT-hw-/view)
+
+**Machine Learning:**
 * [Machine Learning knowledge certification](https://triplebyte.com/tb/sara-nobrega-qieh36i/certificate)
 * [Data Preparation with SQL](https://drive.google.com/file/d/142wQK70ZeOEmWVzERoE6AZ0eOEF-MBm_/view)
+  
+**SQL:**
 * [SQL Bootcamp](https://drive.google.com/file/d/1xhIfte81F_vMhDJDX3o79yJj_9KN5QBG/view)
+
 
 # Projects
 
