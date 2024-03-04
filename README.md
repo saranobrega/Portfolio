@@ -18,6 +18,7 @@ Hey there! This is a collection of my machine learning projects performed during
 **Azure:**
 
 * [Train and deploy a machine learning model with Azure Machine Learning](https://learn.microsoft.com/api/achievements/share/en-us/SARANBREGA-6785/CWL8E4L9?sharingId=2092C01B30C4195A)
+* [Introduction to virtual machines in Microsoft Azure](https://coursera.org/share/1a08de6c0893b2f561503b40bfae709f)
 * [Design a machine learning solution in Azure](https://learn.microsoft.com/api/achievements/share/en-us/SARANBREGA-6785/3X676BLH?sharingId=2092C01B30C4195A)
 * [Perform hyperparameter tuning with Azure Machine Learning](https://learn.microsoft.com/api/achievements/share/en-us/SARANBREGA-6785/3XLJZ9WH?sharingId=2092C01B30C4195A)
 * [AutoML model selection with Azure Machine Learning](https://learn.microsoft.com/en-us/users/saranbrega-6785/achievements/7e8yly2z)
