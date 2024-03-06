@@ -24,7 +24,11 @@ Hey there! This is a collection of my machine learning projects performed during
 * [AutoML model selection with Azure Machine Learning](https://learn.microsoft.com/en-us/users/saranbrega-6785/achievements/7e8yly2z)
 * [Microsoft Azure Data Fundamentals: Explore data analytics in Azure](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics.trophy?username=SaraNbrega-6028)
 * [Microsoft Azure Fundamentals: Describe cloud concepts](https://learn.microsoft.com/en-us/training/achievements/learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts.trophy?username=SaraNbrega-6028)
-  
+
+**GenAI/LLMs:**
+
+* [Introduction to Large Language Models](https://coursera.org/share/d14fff0e7beea698ace14ce32e68e63e)
+
 **Data Presentation Skills:**
 
 * [Communicating Data Effectively in Data Presentation Skills](https://drive.google.com/file/d/1TN7eZ8C5NZ7Qmd513Xz8R--TZ4Lnda2U/view?usp=sharing)
